@@ -18,7 +18,7 @@ It monitors the waste level, sends live data to **Blynk App**, and triggers an *
 - Automatic **SMS notification** when dustbin is full  
 
 ## 📷 Project Image
-![Smart Dustbin](your-image-link-here)
+![Smart Dustbin](https://github.com/piyushpatil1426-sketch/Iot-based-garbage-monitoring-dustbin-/blob/main/Dustbin.jpg)
 
 ## 🚀 Future Improvements
 - Solar-powered version  
