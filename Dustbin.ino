@@ -55,7 +55,7 @@ long getDistance() {
 void sendSMS(const char* message) {
   sim800.println("AT+CMGF=1");    // Text mode
   delay(100);
-  sim800.println("AT+CMGS=\"+919699084613\"");
+  sim800.println("AT+CMGS=\"phone_number\"");//add phone number
   delay(100);
   sim800.print(message);
   delay(100);
